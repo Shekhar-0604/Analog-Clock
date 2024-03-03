@@ -11,4 +11,4 @@ This is a simple analog clock application built using HTML, CSS, and JavaScript.
 
 - ## Demo
 
-You can see the clock in action [here](https://shekharsharma-209203.github.io/Analog-Clock/).
+You can see the clock in action [here](https://shekhar-0604.github.io/Analog-Clock/).
